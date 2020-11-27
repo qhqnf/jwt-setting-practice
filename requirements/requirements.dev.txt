@@ -1,0 +1,5 @@
+-r common.txt
+
+black
+flake8
+django-debug-toolbar
